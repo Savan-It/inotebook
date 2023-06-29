@@ -66,7 +66,7 @@ module.exports = {
           900: '#0a3343',
           950: '#031116',
         },
-        custom_grey:{
+        custom_gray:{
           100: '#f2f2f2',
           200: '#d9d9d9',
           300: '#bfbfbf',
